@@ -2,7 +2,7 @@ body {
     text-align: center;
     background-color: black;
     color: white;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 
 }
 
@@ -17,4 +17,8 @@ img {
 #albumbs {
     background-color:white;
     color: black;
+}
+
+.songs {
+    
 }
